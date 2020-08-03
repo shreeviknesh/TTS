@@ -1,0 +1,12 @@
+{
+    "tts_checkpoint": "models/checkpoint.pth.tar",
+    "tts_config": "models/config.json",
+    "tts_speakers": null,
+    "wavernn_lib_path": null,
+    "wavernn_file": null,
+    "wavernn_config": null,
+    "is_wavernn_batched": true,
+    "port": 5002,
+    "use_cuda": false,
+    "debug": false
+}
